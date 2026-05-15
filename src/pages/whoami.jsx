@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import QuestionCard from './questioncard.jsx';
-import ParisAdventure from "./pages/ParisAdventure";
+import ParisAdventure from "./parisadventure";
 import "./App.css";
 
 const VIBES = {
