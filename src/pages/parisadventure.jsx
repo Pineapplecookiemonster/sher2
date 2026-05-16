@@ -249,7 +249,7 @@ export default function ParisAdventure() {
   return (
     <main className="paris-page">
       <section className="paris-card">
-        <p className="paris-kicker">Paris Food Adventure</p>
+        <p className="paris-kicker">Paris Foodie</p>
         <h1>{scene.title}</h1>
 
         {scene.text.split("\n").map((paragraph, index) => (
