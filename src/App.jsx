@@ -15,11 +15,11 @@ export default function App() {
           <p>Choose where to begin.</p>
 
           <button onClick={() => setPage("quiz")}>
-            Start Quiz
+            Part 1
           </button>
 
           <button onClick={() => setPage("paris")}>
-            Paris Food Adventure
+            Part 2
           </button>
         </main>
       )}
